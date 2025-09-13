@@ -1,3 +1,5 @@
+Use !help or /help to view all commands for the time being
+
 Step 1: Create a file ".env" under "TB" directory (with main.py & requirements.txt)
 - Inside .env file paste (without quotation marks) "DISCORD_TOKEN=DISCORD_TOKEN_HERE" - Enter your bot token after "="
 
